@@ -9,3 +9,6 @@ ESP32:
 
    FTP to WiFi ipaddress.  FTP username is: "admin" no quotes and "12345" no quotes is the FTP password.
    FileZilla was used in testing this Sketch.  Hostname is the ip address in the Sketch.
+   
+   Uncomment this line:  //delay(50 * 1000);  //Uncomment to test watchdog; 50 second delay  to test
+   watchdog.  Line is in the setup section of the the code.
