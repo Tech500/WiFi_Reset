@@ -315,8 +315,8 @@ void wifi_Start()
 {
 
 	// Replace with your network details
-  const char * ssid = "R2D2";
-  const char * password = "sissy4357";
+	const char * ssid = "yourSSID";
+	const char * password = "yourPASSWORD";
 
 	WiFi.mode(WIFI_STA);
 	WiFi.disconnect();
@@ -334,10 +334,10 @@ void wifi_Start()
 	WiFi.begin(ssid, password);
 
 	//Server settings
-  #define ip {10,0,0,110}
-  #define subnet {255,255,255,0}
-  #define gateway {10,0,0,1}
-  #define dns {10,0,0,1}
+	  #define ip {10,0,0,110}
+	  #define subnet {255,255,255,0}
+	  #define gateway {10,0,0,1}
+	  #define dns {10,0,0,1}
 
 	WiFi.config(ip, gateway, subnet, dns);
 
