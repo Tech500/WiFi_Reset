@@ -236,7 +236,7 @@ void loop()
     ftpSrv.handleFTP();
   }
 	
-	if (watchdogCounter > 45)
+	if (watchdogCounter > 45) 
 	{
 
 		portENTER_CRITICAL(&mux);
