@@ -1,0 +1,65 @@
+WiFi Disconnected:    Thu , 01/21/2021 , 20:10:54 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:11:04 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:12:23 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:12:34 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:13:53 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:14:04 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:15:24 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:15:34 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:19:04 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:19:14 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:20:00 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:20:11 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:20:57 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:21:08 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:21:54 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:22:05 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:23:51 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:24:01 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:24:47 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:24:57 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:25:44 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:25:55 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:27:27 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:27:37 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:28:24 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:28:34 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:30:52 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:31:02 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:31:49 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:31:59 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:33:52 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:34:02 EST   Connection result: 3
+
+WiFi Reconnected:     Thu , 01/21/2021 , 20:34:49 EST   Connection result: 6
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:35:04 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:35:14 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:36:00 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:36:11 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:36:58 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:37:08 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:37:55 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:38:05 EST   Connection result: 3
+
+WiFi Disconnected:    Thu , 01/21/2021 , 20:39:30 EST   Connection result: 6
+WiFi Reconnected:     Thu , 01/21/2021 , 20:39:40 EST   Connection result: 3
+
