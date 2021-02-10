@@ -24,8 +24,8 @@
 #include <Ticker.h>
 
 // Replace with your network details
-const char * ssid = "R2D2";
-const char * password = "sissy4357";
+const char * ssid = "yourSSID";
+const char * password = "yourPASSWORD";
 
 FtpServer ftpSrv;
 
