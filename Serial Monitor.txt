@@ -1,0 +1,146 @@
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+Demonstration of WiFi connection events and Auto-reconnection to WiFi.
+with Watchdog and WiFi events logged, plus FTP to view log files.
+
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 4
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 4
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 3
+Signal strength: -44
+wait for first valid timestamp .
+SPIFFS opened!
+
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 5
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 1
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 3
+Signal strength: -46
+
+An interrupt has occurred.
+Watchdog event triggered.
+
+
+Watchdog event triggered.
+Watchdog Restart  Wed , 02/10/2021 , 12:44:50 EST
+
+
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+Demonstration of WiFi connection events and Auto-reconnection to WiFi.
+with Watchdog and WiFi events logged, plus FTP to view log files.
+
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 3
+Signal strength: -42
+wait for first valid timestamp 
+SPIFFS opened!
+
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 3
+Signal strength: -47
+
+MAC: 24:6F:28:A9:7D:D4
+Connecting to R2D2
+Connecting to network...
+IP Address:  10.0.0.5
+Connection result: 3
+Signal strength: -47
