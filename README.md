@@ -1,9 +1,9 @@
 # WiFi_Reset
 
-ESP32:
-
    "WiFi_Reset.ino" by tech500.
             
+   Sketch is for both ESP8266 and the EDP32.
+   
    Sketch demonstrates starting WiFi, Disconnects of WiFi, and Auto connection to WiFi;
    plus logs WiFi Connects and WiFi Disconnects, additionally watchdog trigger events are logged.
 
