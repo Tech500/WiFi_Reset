@@ -2,7 +2,7 @@
 //
 //    ESP8266/ESP32  
 //
-//   "WiFi_Reset.ino" by William Lucid on Github.com
+//   "WiFi_Reset.ino" by William Lucid on Github.com  by Tech500   02/16/2021 @ 10:43 EST
 //
 //   Start WiFi plus log disconnect and reflect
 //
@@ -195,21 +195,22 @@ void loop()
   
   getDateTime();
 
-  if((MINUTE % 2 == 0) && (SECOND == 0))  //Disconnect WiFi every two minutes
+  
+  //---------Testing code ---------------------------------------------
+  //-------------------------Comment out for normal use ------------------ 
+
+  if((MINUTE % 2 == 0) && (SECOND == 0))
   {
-
-      WiFi.disconnect();
-
-      Serial.println("\nWiFi Disconnected by 'WiFi.disconnect()'.\n");
-     
+    WiFi.disconnect();
   }
 
-  if((MINUTE % 3 == 0) && (SECOND == 0))
+  if((MINUTE % 5 == 0) && (SECOND == 30))
   {
-
-       delay(50 * 1000);   //Test watchdog timer every three minutes
-
+    watchDog = 1;
   }
+
+  //--------- End Testing code ------------------------------------------
+ 
 
   if (WiFi.status() != WL_CONNECTED)
   {
