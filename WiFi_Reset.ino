@@ -30,20 +30,25 @@
 
 
 #include <WiFiUdp.h>
-#include <ESP8266FtpServer.h>
+#include <FTPServer.h>   //https://github.com/dplasa/FTPClientServer
 #include <sys/time.h>
 #include <time.h>   // time() ctime() --> Needed to sync time
 #include <FS.h>
+
 #ifdef ESP32       
 
   #include <WiFi.h>
-	#include "SPIFFS.h"
+  #include "SPIFFS.h"
+  FTPServer ftpSrv(SPIFFS);
+  
 	
 #elif defined ESP8266
 
   #include <ESP8266WiFi.h>
-	#include "LittleFS.h"
+  #include "LittleFS.h"
 	#define SPIFFS LittleFS
+  FTPServer ftpSrv(LittleFS);
+  
 	
 #endif
 	
