@@ -58,8 +58,6 @@
 const char * ssid = "yourSSID";
 const char * password = "yourPASSWORD";
 
-FtpServer ftpSrv;
-
 Ticker secondTick;
 
 //Are we currently connected?
