@@ -1,8 +1,0 @@
-WiFi Reconnected:     Wed , 02/10/2021 , 01:25:53 EST   Connection result: 3
-
-WiFi Disconnected:    Wed , 02/10/2021 , 01:28:26 EST   Connection result: 6
-WiFi Reconnected:     Wed , 02/10/2021 , 01:31:02 EST   Connection result: 3
-
-Watchdog Restart:     Wed , 02/10/2021 , 01:31:02 EST
-WiFi Reconnected:     Wed , 02/10/2021 , 01:32:29 EST   Connection result: 3
-
