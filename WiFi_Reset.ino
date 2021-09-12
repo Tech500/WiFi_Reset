@@ -2,7 +2,7 @@
 //
 //    ESP8266/ESP32  
 //
-//   "WiFi_Reset.ino" by William Lucid on Github.com  by Tech500   02/16/2021 @ 10:43 EST
+//   "WiFi_Reset.ino" by William Lucid on Github.com  by Tech500   09/12/2021 02:19 EDT
 //
 //   Start WiFi plus log disconnect and reflect
 //
